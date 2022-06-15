@@ -1,4 +1,4 @@
-# Stocks & Loss
+# Trading strategy analyzer
 Framework for developing and backtesting strategies for swing trading based on technical analysis indicators. Compromises of multiple self-functioning blocks. ```scraper.py``` holds class for storing, loading and scraping stock data from [yahoo finance](https://finance.yahoo.com/). ```indicators.py``` holds multiple functions for technical indicators and ```analyzer.py``` holds trading strategies and methods for evaluating trades.
 
 ### Requirements
